@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @michelamani05
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html , css , java script , php , wamp server
-- 💞️ I’m looking to collaborate on creation of web site 
-- 📫 How to reach me 
+🎓 Student at Adventist University of Central Africa (AUCA)<br/>
+💻 Software Developer | Full-Stack Engineer | UI/UX Designer | Software Tester<br/>
 
-<!---
-michelamani05/michelamani05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 About Me
+I am a passionate and dedicated software developer with expertise in both front-end and back-end development. I enjoy building efficient, scalable, and user-friendly applications while continuously expanding my knowledge in modern technologies.<br/>
+
+💡 Skills & Technologies<br/>
+Programming & Scripting: C#, PHP, JavaScript, Dart, Python<br/>
+
+Web Development: HTML, CSS, JavaScript, PHP<br/>
+
+Databases: SQLPlus, Hibernate<br/>
+
+Frameworks & Tools: Spring Boot<br/>
+
+Software Development: UI/UX Design, Software Testing<br/>
+
+I am always eager to collaborate on exciting projects, contribute to open-source, and improve my skills in software engineering and system design.<br/>
+
+📫 Let's Connect!<br/>
+instagram https://www.instagram.com/michelcindege/<br/>
+linkedin https://www.linkedin.com/in/michel-cindege-a37742275/<br/>
